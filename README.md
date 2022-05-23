@@ -35,6 +35,7 @@ Recommended tools for testing Mercurial: (when running the produced output after
 - VMware
 - Process Hacker
 - VirusTotal
+
 Tips to check if an exe file is safe:
 
 - Analyze the file with VirusTotal
