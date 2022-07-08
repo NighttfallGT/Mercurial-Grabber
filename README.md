@@ -1,6 +1,7 @@
 # Mercurial-Grabber
 ![image](https://user-images.githubusercontent.com/104257061/169816582-35f1ff1b-b499-49a4-b0f2-ebf40b01e64c.png)
 # Features
+- Grabs Cryptowallets
 - Grabs Roblox cookies from Roblox Studio
 - Grabs Minecraft sessions
 - Grabs Google Chrome passwords
